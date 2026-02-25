@@ -4,6 +4,11 @@ ShareStream is a UK-based community web platform where users can share
 ideas, vote on ideas, comment, bookmark posts, and report inappropriate
 content. The platform includes an admin moderation system and user
 dashboards with statistics.
+------------------------------------------------------------------------
+
+# Weekly Task Plan
+
+https://livenapierac-my.sharepoint.com/:x:/r/personal/40692321_live_napier_ac_uk/Documents/ShareStream_Weekly_Task_Plan_Final_Version.xlsx?d=wea8427fe9cd340f8a26d68d5a18c9eb8&csf=1&web=1&e=DfLqHz
 
 ------------------------------------------------------------------------
 
